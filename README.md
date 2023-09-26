@@ -1,4 +1,4 @@
-# Face Recognition based attendence System
+# Face Recognition based attendance System
 For every organization, today attendance is the most important thing to record the presence of someone. The presence of someone in an organization is a sign that the person is carrying out their obligations to come to the agency or organization.
 
 # Description
